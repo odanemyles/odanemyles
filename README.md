@@ -1,6 +1,18 @@
 # 💫 About Me:
 Hi there 👋, I'm Odane<br><br>🔒 Aspiring Cybersecurity Analyst | Rutgers IT & Informatics student  <br>💻 Skills: Python, Linux, Networking, Cybersecurity, Information Assurance  <br>📊 Currently exploring: Vulnerability Assessment, Penetration Testing, Automation<br><br>Cybersecurity & IT student | Aspiring Security Analyst | Python, Linux, Network Security Enthusiast | Rutgers University<br>  <br><br>📫 Connect with me: LinkedIn: linkedin.com/in/odanemyles| <br><br><br>
 
+# Cybersecurity Labs (TryHackMe)
+
+This repository documents hands-on labs completed across web security, network analysis, and ethical hacking.
+
+## Web Security
+- FakeBank Enumeration: Discovered hidden directories using Gobuster and analyzed insecure account transfer functionality.
+- Injection Labs: Practiced SQLi and XSS exploitation in isolated environments.
+
+## Network Security
+- Nmap scanning with service/version detection.
+- Basic malware analysis tasks.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/odane.myles/?igsh=OXU1eDU0ZTU5ZHI1&utm_source=qr#) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Odanemyles) 
