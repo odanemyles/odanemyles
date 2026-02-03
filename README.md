@@ -5,13 +5,18 @@ Hi there 👋, I'm Odane<br><br>🔒 Aspiring Cybersecurity Analyst | Rutgers IT
 
 This repository documents hands-on labs completed across web security, network analysis, and ethical hacking.
 
-## Web Security
-- FakeBank Enumeration: Discovered hidden directories using Gobuster and analyzed insecure account transfer functionality.
-- Injection Labs: Practiced SQLi and XSS exploitation in isolated environments.
 
-## Network Security
-- Nmap scanning with service/version detection.
-- Basic malware analysis tasks.
+## Cloud-Based Active Directory & User Management (Microsoft Azure / Entra ID)
+
+Deployed and administered a cloud-based identity environment using Microsoft Entra ID (Azure Active Directory)
+
+Created and managed user accounts with assigned job roles, departments, and usage locations
+
+Configured security groups and implemented role-based access control (RBAC)
+
+Assigned administrative roles (User Administrator, Groups Administrator) following least-privilege principles
+
+Tested authentication and access permissions using multiple user accounts to validate configuration
 
 
 ## 🌐 Socials:
